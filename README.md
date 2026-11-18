@@ -22,4 +22,4 @@ Na parte acadêmica, sou formado em Engenharia de Produção e Engenharia de Com
 - Agentes e aplicações com LLMs
 - Projetos pessoais com Node, React e Vercel nas horas vagas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=carlosrichardoliveira-star&show_icons=true&theme=dark&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=carlosricharddeoliveira&show_icons=true&theme=dark&hide_border=true)
